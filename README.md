@@ -1,4 +1,4 @@
-README.md# estudante
+README.md#
 <p align = "center">
   <a href="https://cakephp.org/" target="_blank">
     <img alt = "CakePHP" src = "https://cakephp.org/v2/img/logos/CakePHP_Logo.svg" width = "400" />
@@ -53,40 +53,4 @@ testes para o CakePHP, fazendo o seguinte:
    uma fonte de dados não-SQLite.
 3. Execute o `phpunit`.
 
-## Alguns links úteis
 
-* [CakePHP] (https://cakephp.org) - O framework PHP de desenvolvimento rápido.
-* [CookBook] (https://book.cakephp.org) - A documentação do usuário do CakePHP; comece a aprender aqui!
-* [API] (https://api.cakephp.org) - Uma referência às aulas do CakePHP.
-* [Awesome CakePHP] (https://github.com/FriendsOfCake/awesome-cakephp) - Uma lista de recursos em destaque ao redor do framework.
-* [Plugins] (https://plugins.cakephp.org) - Um repositório de extensões para o framework.
-* [The Bakery] (https://bakery.cakephp.org) - Dicas, tutoriais e artigos.
-* [Centro Comunitário] (https://community.cakephp.org) - Uma fonte para tudo relacionado à comunidade.
-* [Treinamento] (https://training.cakephp.org) - Participe de uma sessão ao vivo e seja qualificado com a estrutura.
-* [CakeFest] (https://cakefest.org) - Não perca a nossa conferência anual CakePHP.
-* [Cake Software Foundation] (https://cakefoundation.org) - Promovendo o desenvolvimento relacionado ao CakePHP.
-
-## Obtenha suporte!
-
-* [Slack] (https://cakesf.herokuapp.com/) - Junte-se a nós no Slack.
-* [#cakephp] (https://webchat.freenode.net/?channels=#cakephp) em irc.freenode.net - Venha conversar conosco, temos bolo.
-* [Fórum] (https://discourse.cakephp.org/) - Fórum oficial do CakePHP.
-* [Problemas do GitHub] (https://github.com/cakephp/cakephp/issues) - Tem problemas? Por favor nos conte!
-* [Roadmaps] (https://github.com/cakephp/cakephp/wiki#roadmaps) - Quer contribuir? Se envolver!
-
-## Contribuindo
-
-* [CONTRIBUTING.md] (. Github / CONTRIBUTING.md) - Dicas rápidas para contribuir com o projeto CakePHP.
-* [Seção "Contribuindo" do "CookBook"] (https://book.cakephp.org/3.0/en/contributing.html) - Detalhes sobre como contribuir com o projeto.
-
-# Segurança
-
-Se você encontrou um problema de segurança no CakePHP, por favor use o seguinte procedimento ao invés do sistema normal de relatório de erros. Em vez de usar o bug tracker, lista de discussão ou IRC, por favor envie um email para security [at] cakephp.org. E-mails enviados para este endereço vão para a equipe principal do CakePHP em uma lista de discussão privada.
-
-Para cada relatório, tentamos primeiro confirmar a vulnerabilidade. Uma vez confirmada, a equipe do CakePHP executará as seguintes ações:
-
-- Confirme ao repórter que recebemos o problema e estamos trabalhando em uma correção. Pedimos que o repórter mantenha o assunto confidencial até que o anunciemos.
-- Consiga uma correção / patch preparado.
-- Prepare uma postagem descrevendo a vulnerabilidade e as possíveis explorações.
-- Libere novas versões de todas as versões afetadas.
-- Destaque o problema no anúncio de lançamento.
